@@ -1,0 +1,34 @@
+Iniciar programa
+Exibir mensagem: "Bem-vindo à calculadora!"
+Exibir opções: "1 - Soma, 2 - Subtração, 3 - Multiplicação, 4 - Divisão"
+Ler escolha do usuário
+
+Se escolha for inválida
+    Exibir mensagem: "Número inválido"
+    Reiniciar programa
+Senão
+    Exibir mensagem: "Escolha dois números"
+    Ler primeiro número
+    Ler segundo número
+
+    Se escolha for 1
+        Calcular soma
+    Senão se escolha for 2
+        Calcular subtração
+    Senão se escolha for 3
+        Calcular multiplicação
+    Senão se escolha for 4
+        Se segundo número for 0
+            Exibir mensagem: "Divisão por zero não é permitida"
+        Senão
+            Calcular divisão
+    Fim se
+
+    Exibir resultado
+    Perguntar se deseja outra operação
+    Se resposta for "Sim"
+        Reiniciar programa
+    Senão
+        Exibir mensagem: "Calculadora desligada"
+Fim programa
+
