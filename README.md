@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rduarte12
 - 🚩 I’m from Brazil
 - 🌱 I’m currently learning about coding
+- 🏆 I'm studying Information Systems at the Institute of Mathematical and Computational Sciences at the 'Universidade de São Paulo'
 - 📖 Fun Fact: I'm currently reading the book 'Sapiens: A Brief History of Humankind'
 
 <!---
