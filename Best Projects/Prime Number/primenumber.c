@@ -29,12 +29,12 @@ int main(void)
         scanf("%d", &num);
         printf("\n\n");
 
-        if(num <= 0)
+        if(num < 0)
         {
-            printf("Invalid number\n\n");
+            printf("%d is an Invalid number\n\n", num);
         }
 
-    } while(num <= 0);
+    } while(num < 0);
 
     //define the valor of 'divisor'
     divisor = num - 1;
