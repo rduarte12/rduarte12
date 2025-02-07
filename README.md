@@ -1,3 +1,5 @@
+# About me
+
 - 👋 Hi, I’m @rduarte12
 - 🚩 I’m from Brazil
 - 🌱 I’m currently learning about coding
