@@ -1,5 +1,3 @@
-Here's a README in English for the calculator program code:
-
 # README - Calculator Program
 
 ## Description
@@ -58,4 +56,4 @@ END program
 
 ## Author
 
-Developed by Rafael Mendonça Duarte.
+Developed by [@rduarte12](https://github.com/rduarte12)
