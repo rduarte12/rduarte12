@@ -1,5 +1,3 @@
-Here's a README in English for the prime number verification program:
-
 # README - Prime Number Verifier
 
 ## Description
@@ -46,4 +44,4 @@ END program
 
 ## Author
 
-Developed by Rafael Mendonça Duarte.
+Developed by [@rduarte12](https://github.com/rduarte12)
