@@ -1,4 +1,3 @@
-Here's a README in English for the arithmetic mean calculator program:
 
 # README - Arithmetic Mean Calculator
 
@@ -44,4 +43,4 @@ END program
 
 ## Author
 
-Developed by Rafael Mendonça Duarte.
+Developed by [@rduarte12](https://github.com/rduarte12)
